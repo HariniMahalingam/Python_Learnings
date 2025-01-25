@@ -1,0 +1,1 @@
+Hello World, The file is in write mode.Hello, World! from AppendHello, World! from AppendHello, World! from Append
